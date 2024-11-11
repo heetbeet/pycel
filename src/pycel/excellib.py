@@ -23,7 +23,6 @@ from pycel.excelutil import (
     ERROR_CODES,
     flatten,
     handle_ifs,
-    in_array_formula_context,
     is_array_arg,
     is_number,
     list_like,
